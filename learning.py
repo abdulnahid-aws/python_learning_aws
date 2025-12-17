@@ -1,4 +1,4 @@
 count = 0
 while count < 6:
-    print('count')
+    print(count)
     count += 2
